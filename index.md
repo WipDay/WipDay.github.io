@@ -19,7 +19,7 @@
     </script>
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>WIPDAY IEEE IFPB | WipDay </title>
+<title>WIPDAY IEEE IFPB </title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="WIPDAY IEEE IFPB" />
 <meta property="og:locale" content="en_US" />
@@ -39,7 +39,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>WipDay.github.io</h1>
+            <h1>WipDay</h1>
             <h2></h2>
           </span>
           <span class="left-tail"></span>

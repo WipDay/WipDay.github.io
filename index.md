@@ -1,4 +1,4 @@
-## WIPDAY IEEE IFPB
+## Wlcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WipDay/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
